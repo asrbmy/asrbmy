@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ajit Singh Rathore 👋
+# Hi, I'm Ajit 👋
 ### a.k.a. **ASRBMY**
 
 **Cyber Security · Artificial Intelligence · Robotics**
@@ -19,7 +19,7 @@ Interested in how systems break — and how to make them stronger.
 
 ### 📍 About Me
 
-I'm a student at **Kendriya Vidyalaya, Churu (Rajasthan)**, with a deep passion for **Cyber Security, Artificial Intelligence, and Robotics**. I'm driven to understand how technology works at a deeper level and apply that knowledge to solve real-world problems through research, coding, and innovation.
+I'm a student at **Kendriya Vidyalaya (Rajasthan)**, with a deep passion for **Cyber Security, Artificial Intelligence, and Robotics**. I'm driven to understand how technology works at a deeper level and apply that knowledge to solve real-world problems through research, coding, and innovation.
 
 My core interests span **Ethical Hacking**, **Encryption & Cryptography**, **OSINT (Open Source Intelligence)**, **Applied AI**, and **Software Development**. I'm always sharpening my skills through projects, hackathons, and competitive platforms.
 
